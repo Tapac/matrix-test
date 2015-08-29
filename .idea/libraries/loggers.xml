@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="libraryTable">
+  <library name="loggers">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/loggers" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/loggers" recursive="false" />
+  </library>
+</component>
